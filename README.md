@@ -3,8 +3,7 @@
 ### Группа: М8О-407Б-22
 ### Лабораторные работы: 1-5
 
-#### Датасеты
-
+#### Датасеты:
 #### Классификация: (https://www.kaggle.com/datasets/abcsds/predicting-acceptance-of-scientific-papers) — Определить будет ли научная статья принята на конференцию 
 #### Регрессия: (https://www.kaggle.com/datasets/datasnaek/youtube-new) — Предсказание количества просмотров YouTube-видео на основе метаданных
 
