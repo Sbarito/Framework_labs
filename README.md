@@ -4,7 +4,10 @@
 ### Лабораторные работы: 1-5
 
 #### Датасеты:
+<<<<<<< HEAD
 
+=======
+>>>>>>> c64ad7ce4595191b70b63ed1e8e27850a1a7a867
 #### Классификация: (https://www.kaggle.com/datasets/abcsds/predicting-acceptance-of-scientific-papers) — Определить будет ли научная статья принята на конференцию 
 #### Регрессия: (https://www.kaggle.com/datasets/datasnaek/youtube-new) — Предсказание количества просмотров YouTube-видео на основе метаданных
 
