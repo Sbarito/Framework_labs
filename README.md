@@ -4,9 +4,8 @@
 ### Лабораторные работы: 1-5
 
 #### Датасеты:
-
-#### Классификация: (https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) — Определить сдаст ли студент итоговый экзамен
-#### Регрессия: (https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) — Прогнозирование ежемесячной арендной платы за жилье
+Классификация: (https://www.kaggle.com/datasets/uciml/student-alcohol-consumption) — Определить сдаст ли студент итоговый экзамен
+Регрессия: (https://www.kaggle.com/datasets/iamsouravbanerjee/house-rent-prediction-dataset) — Прогнозирование ежемесячной арендной платы за жилье
 
 1 лабораторная работа - директория lab1
 2 лабораторная работа - директория lab2
